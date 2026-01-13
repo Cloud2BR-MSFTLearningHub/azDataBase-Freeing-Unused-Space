@@ -113,23 +113,23 @@ graph TD
 
 ### Azure SQL Database
 
-> Click here for additional information on this topic [Azure SQL Database: Freeing Up Unused Space - Overview](https://github.com/MicrosoftCloudEssentials-LearningHub/Demos-ScenariosHub/blob/main/0_Azure/1_AzureData/1_Databases/demos/8_DBFreeingUpUnusedSpace/relational/0_az-sql-db.md) 
+> Click here for additional information on this topic [Azure SQL Database: Freeing Up Unused Space - Overview](./relational/0_az-sql-db.md) 
 
 ### Azure SQL Managed Instance
 
-> Click here for additional information on this topic [Azure SQL Managed Instance: Freeing Up Unused Space - Overview](https://github.com/MicrosoftCloudEssentials-LearningHub/Demos-ScenariosHub/blob/main/0_Azure/1_AzureData/1_Databases/demos/8_DBFreeingUpUnusedSpace/relational/1_az-sql-mi.md) 
+> Click here for additional information on this topic [Azure SQL Managed Instance: Freeing Up Unused Space - Overview](./relational/1_az-sql-mi.md) 
 
 ### SQL Server on Azure Virtual Machines
 
-> Click here for additional information on this topic [Azure SQL Managed Instance: Freeing Up Unused Space - Overview](https://github.com/MicrosoftCloudEssentials-LearningHub/Demos-ScenariosHub/blob/main/0_Azure/1_AzureData/1_Databases/demos/8_DBFreeingUpUnusedSpace/relational/2_sql-az-vm.md)
+> Click here for additional information on this topic [Azure SQL Managed Instance: Freeing Up Unused Space - Overview](./relational/2_sql-az-vm.md)
 
 ### Azure Database for PostgreSQL
 
-> Click here for additional information on this topic [Azure Database for PostgreSQL: Freeing Up Unused Space - Overview](https://github.com/MicrosoftCloudEssentials-LearningHub/Demos-ScenariosHub/blob/main/0_Azure/1_AzureData/1_Databases/demos/8_DBFreeingUpUnusedSpace/relational/3_az-postgreSQL.md)
+> Click here for additional information on this topic [Azure Database for PostgreSQL: Freeing Up Unused Space - Overview](./relational/3_az-postgreSQL.md)
 
 ### Azure Database for MySQL
 
-> Click here for additional information on this topic [Azure Database for MySQL: Freeing Up Unused Space - Overview](https://github.com/MicrosoftCloudEssentials-LearningHub/Demos-ScenariosHub/blob/main/0_Azure/1_AzureData/1_Databases/demos/8_DBFreeingUpUnusedSpace/relational/4_az-db-mysql.md)
+> Click here for additional information on this topic [Azure Database for MySQL: Freeing Up Unused Space - Overview](./relational/4_az-db-mysql.md)
 
 ## Non-Relational Databases
 
@@ -159,15 +159,15 @@ graph TD
 
 ### Azure Cosmos DB
 
-> Click here for additional information on this topic [Azure Cosmos DB: Freeing Up Unused Space - Overview](https://github.com/MicrosoftCloudEssentials-LearningHub/Demos-ScenariosHub/blob/main/0_Azure/1_AzureData/1_Databases/demos/8_DBFreeingUpUnusedSpace/non-relational/0_az-cosmosdb.md)
+> Click here for additional information on this topic [Azure Cosmos DB: Freeing Up Unused Space - Overview](./non-relational/0_az-cosmosdb.md)
 
 ### Azure Managed Instance for Apache Cassandra
 
-> Click here for additional information on this topic [Azure Managed Instance for Apache Cassandra: Freeing Up Unused Space - Overview](https://github.com/MicrosoftCloudEssentials-LearningHub/Demos-ScenariosHub/blob/main/0_Azure/1_AzureData/1_Databases/demos/8_DBFreeingUpUnusedSpace/non-relational/1_az-mi-apache-cassandra.md)
+> Click here for additional information on this topic [Azure Managed Instance for Apache Cassandra: Freeing Up Unused Space - Overview](./non-relational/1_az-mi-apache-cassandra.md)
 
 ### Azure Cache for Redis
 
-> Click here for additional information on this topic [Azure Cache for Redis: Freeing Up Unused Space - Overview](https://github.com/MicrosoftCloudEssentials-LearningHub/Demos-ScenariosHub/blob/main/0_Azure/1_AzureData/1_Databases/demos/8_DBFreeingUpUnusedSpace/non-relational/2_az-cache-redis.md)
+> Click here for additional information on this topic [Azure Cache for Redis: Freeing Up Unused Space - Overview](./non-relational/2_az-cache-redis.md)
 
 <!-- START BADGE -->
 <div align="center">
