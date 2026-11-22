@@ -115,7 +115,7 @@ graph TD
 
 ### Azure SQL Managed Instance
 
-> Click here for additional information on this topic [Azure SQL Managed Instance: Freeing Up Unused Space - Overview](./relational/1_az-sql-mi.md) 
+> Click here for additional information on this topic [Azure SQL Managed Instance: Freeing Up Unused Space - Overview](https://github.com/Cloud2BR-MSFTLearningHub/azDataBase-Freeing-Unused-Space/tree/main/relational/1_az-sql-mi) 
 
 ### SQL Server on Azure Virtual Machines
 
